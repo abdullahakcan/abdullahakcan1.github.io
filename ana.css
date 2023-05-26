@@ -1,0 +1,25 @@
+body{
+    font-family: 'Alkatra', cursive;
+    background-image: url("img/anab1.j.jpg");
+}
+.container{
+    background-color: aliceblue;
+    width: 2000px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 20px;
+}
+.kutu1{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 300px;
+    background-color: aliceblue;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  }
+  .trf img{
+    height: 400px;
+    margin-bottom: 50px;
+  }
+  .link a{
+    margin-right: 20px;
+    font-size: 40px;
+  }

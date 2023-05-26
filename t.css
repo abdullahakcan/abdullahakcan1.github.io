@@ -1,0 +1,36 @@
+body{
+    background-image: url("img/gd.webp");
+    background-size: contain;
+    font-family: 'Alkatra', cursive;
+}
+.container{
+    border: 4px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    background-color:#FFF3E2;
+    text-align: center;
+}
+.anar{
+    border: 1px solid rgb(255, 0, 208);
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+.res{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin-left:100px ;
+}
+
+.rel{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin-right:100px ;
+}
+.link a{
+    margin-right: 20px;
+    font-size: 40px;
+  }

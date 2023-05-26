@@ -1,0 +1,1 @@
+alert("dostum hirika bir siteye denk geldin şimdiden afiyet olsun 😉 ");

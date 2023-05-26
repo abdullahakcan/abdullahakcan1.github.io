@@ -1,0 +1,29 @@
+body{
+    background-image: url("img/fs.jpeg");
+    background-size: auto;
+    font-family: 'Alkatra', cursive;
+}
+.kutu{
+  background-color: antiquewhite;
+  width: 1000px;
+  margin: auto;
+}
+.img-fluid{
+  border: 2px solid #ecd448;
+}
+.kutu1{
+  border: 1px solid black;
+  border-radius: 20px;
+  width: 300px;
+  background-color: aliceblue;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.link{
+  margin-left: 250px;
+  width: 500px;
+  border-radius: 15px;
+}
+.link a{
+  font-size:40px ;
+  margin-left: 15px;
+}
